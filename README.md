@@ -1,4 +1,4 @@
-# Fast React Pizza Co. App
+# Fast Pizza Co. : The App
 
 <img src="./public/FastReactPizzaCo.PNG" style="height: 400px; width: 100%; border-radius: 10px" />
 
